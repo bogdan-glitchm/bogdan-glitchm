@@ -1,0 +1,50 @@
+                        ==================================================
+                        ||              Personal License                ||   
+                        ==================================================
+
+
+
+
+This license covers the files used for the profile of the GitHub account for the user `cornusandu`.
+
+Affected assets are:
+* `Assets/*`
+* `README.md`
+* `LICENSE`
+
+
+                Assets License
+--------------------------------------------------
+
+I. Usage
+
+1 :     All assets under the `Assets` directory are proprietary and may not be copied or otherwise redistributed.
+
+2 :     Personal or commercial use of these assets is not permitted.
+
+
+II. Possession
+
+3 :     While distribution of these assets is not permitted, possession and visualisation are permitted.
+
+
+
+
+                README License
+--------------------------------------------------
+
+
+I. Usage
+
+1 :     The README markdown file may be copied or otherwise redistributed, assuming it remains unchanged.
+
+2 :     Distributing modified copies of the README markdown file is not permitted.
+
+3 :     Genuine use of the markdown files to discover external assets (not covered by the Assets License) that are then used is permitted.
+
+4 :     Personal or commercial use of the README markdown file outside of what is allowed by §I.1 and §I.3 is not permitted.
+
+
+II. Possession
+
+5 :     Possession and visualisation of the README markdown file is permitted.
