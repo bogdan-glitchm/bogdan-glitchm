@@ -38,7 +38,7 @@ As long as your project is in a language I'm familiar with, is open-source, is w
 0. Fixed overflow issue in "Custom Age Theme Badge Text" feature
 <div></div>
 
-1. Implemented unofficial JSDoc-based documentation ([Github-Pages/Cornusandu/RoValra](https://cornusandu.github.io/RoValra)) 
+1. Implemented unofficial JSDoc-based documentation ([Github-Pages/bogdan-glitchm/RoValra](https://bogdan-glitchm.github.io/RoValra)) 
 
 <h1 align="center">Other Links</h1>
 
