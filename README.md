@@ -44,7 +44,7 @@ As long as your project is in a language I'm familiar with, is open-source, is w
 
 * **Reddit account:** [Reddit/Player123456789_10](https://www.reddit.com/user/Player123456789_10/)
 * **Discord account:** [Discord/the_glitch_master](https://discord.com/users/808381764623532102)
-* **Twitter account:** [Twitter/xBogdan0_](https://x.com/xBogdan0_)
+* **Twitter account:** [Twitter/xBogdan0](https://x.com/xBogdan0)
 * **Personal C++ Styleguide:** [Github-Pages/Cornusandu/CPP-Styleguide](https://cornusandu.github.io/CPP-Styleguide/)
 * **My Projects:** [GitHub/cornusandu-org](https://github.com/cornusandu-org)
 
@@ -53,3 +53,5 @@ As long as your project is in a language I'm familiar with, is open-source, is w
     <img src="https://lanyard.cnrad.dev/api/808381764623532102?hideDiscrim=true&idleMessage=I%20am%20currently%20not%20playing%20anything%20at%20the%20moment.&bg=1e1e2e&showDisplayName=true" alt="Discord Status" />
   </a>
 </div>
+
+<small>More Info: gh user id 34373732</small>
