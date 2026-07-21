@@ -46,7 +46,7 @@ As long as your project is in a language I'm familiar with, is open-source, is w
 * **Discord account:** [Discord/the_glitch_master](https://discord.com/users/808381764623532102)
 * **Twitter account:** [Twitter/xBogdan0](https://x.com/xBogdan0)
 * **Personal C++ Styleguide:** [Github-Pages/Cornusandu/CPP-Styleguide](https://cornusandu.github.io/CPP-Styleguide/)
-* **My Projects:** [GitHub/cornusandu-org](https://github.com/cornusandu-org)
+* **My Projects:** [GitHub/General Software Development](https://github.com/general-software-development)
 
 <div align="center">
   <a href="https://discord.com/users/808381764623532102">
