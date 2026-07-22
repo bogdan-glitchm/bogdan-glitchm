@@ -45,7 +45,7 @@ As long as your project is in a language I'm familiar with, is open-source, is w
 * **Reddit account:** [Reddit/Player123456789_10](https://www.reddit.com/user/Player123456789_10/)
 * **Discord account:** [Discord/the_glitch_master](https://discord.com/users/808381764623532102)
 * **Twitter account:** [Twitter/xBogdan0](https://x.com/xBogdan0)
-* **Personal C++ Styleguide:** [Github-Pages/Cornusandu/CPP-Styleguide](https://cornusandu.github.io/CPP-Styleguide/)
+* **Personal C++ Styleguide:** [Github-Pages/Bogdan-glitchm/CPP-Styleguide](https://bogdan-glitchm.github.io/CPP-Styleguide/)
 * **My Projects:** [GitHub/General Software Development](https://github.com/general-software-development)
 
 <div align="center">
