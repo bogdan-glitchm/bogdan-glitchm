@@ -37,6 +37,7 @@ I. Licensing
 
 1 :     All assets underneath `public/Assets` are distributed under their own respective licenses, or no licenses.
 
+
 II. Copyright ownership
 
 2 :     I might not possess copyright over certain public assets. As such, they are distributed according to the licenses they are used under, if any.
