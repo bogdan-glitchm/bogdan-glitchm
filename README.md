@@ -46,6 +46,7 @@ As long as your project is in a language I'm familiar with, is open-source, is w
 * **Discord account:** [Discord/the_glitch_master](https://discord.com/users/808381764623532102)
 * **Twitter account:** [Twitter/xBogdan0](https://x.com/xBogdan0)
 * **Personal C++ Styleguide:** [Github-Pages/Bogdan-glitchm/CPP-Styleguide](https://bogdan-glitchm.github.io/CPP-Styleguide/)
+* **Personal Python Styleguide:** [Github-Pages/General-software-development/PySR](https://general-software-development.github.io/PySR/)
 * **My Projects:** [GitHub/General Software Development](https://github.com/general-software-development)
 
 <div align="center">
@@ -54,4 +55,4 @@ As long as your project is in a language I'm familiar with, is open-source, is w
   </a>
 </div>
 
-<small>More Info: gh user id 34373732</small>
+<sup><sub>More Info: gh user id 34373732</sub></sup>
