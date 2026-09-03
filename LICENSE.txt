@@ -5,12 +5,13 @@
 
 
 
-This license covers the files used for the profile of the GitHub account for the user `cornusandu`.
+This license covers the files used for the profile of the GitHub account for the user `bogdan-glitchm`.
 
 Affected assets are:
 * `Assets/*`
 * `README.md`
 * `LICENSE`
+* `public/Assets/*`
 
 
                 Assets License
@@ -26,6 +27,19 @@ I. Usage
 II. Possession
 
 3 :     While distribution of these assets is not permitted, possession and visualisation are permitted.
+
+
+
+                Public Assets License
+--------------------------------------------------
+
+I. Licensing
+
+1 :     All assets underneath `public/Assets` are distributed under their own respective licenses, or no licenses.
+
+II. Copyright ownership
+
+2 :     I might not possess copyright over certain public assets. As such, they are distributed according to the licenses they are used under, if any.
 
 
 

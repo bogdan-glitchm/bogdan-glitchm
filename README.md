@@ -18,7 +18,7 @@ As long as your project is in a language I'm familiar with, is open-source, is w
 
 <div align="center">
 
-<img alt="github-snake" src="https://raw.githubusercontent.com/coopeeo/coopeeo/snekOutput/github-snake.svg" />
+<img alt="github-snake" src="./public/Assets/snake/github-snake.svg" />
 
 </div>
 
